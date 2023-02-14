@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seiscreen/static/css/main.f084694f.css",
+    "main.js": "/seiscreen/static/js/main.12ab72a5.js",
+    "static/js/787.3d5192a1.chunk.js": "/seiscreen/static/js/787.3d5192a1.chunk.js",
+    "index.html": "/seiscreen/index.html",
+    "main.f084694f.css.map": "/seiscreen/static/css/main.f084694f.css.map",
+    "main.12ab72a5.js.map": "/seiscreen/static/js/main.12ab72a5.js.map",
+    "787.3d5192a1.chunk.js.map": "/seiscreen/static/js/787.3d5192a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f084694f.css",
+    "static/js/main.12ab72a5.js"
+  ]
+}
